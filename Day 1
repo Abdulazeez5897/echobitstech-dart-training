@@ -1,0 +1,7 @@
+void main() {
+  String name = 'Usman Abdulazeez';
+  int age = 24;
+  double weight = 80.0;
+  
+  print("My name is $name and I'm $age, I weigh $weight kg");
+}
