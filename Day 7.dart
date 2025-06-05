@@ -38,4 +38,5 @@ int? _promptForGuess() {
   final input = stdin.readLineSync();
   if (input == null) return null;
   return int.tryParse(input.trim());
+  
 }
